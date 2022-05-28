@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/E-propertyBid-real-estate-project-react/static/js/main.21765e6a.chunk.js",
-    "main.js.map": "/E-propertyBid-real-estate-project-react/static/js/main.21765e6a.chunk.js.map",
+    "main.js": "/E-propertyBid-real-estate-project-react/static/js/main.bdf3f407.chunk.js",
+    "main.js.map": "/E-propertyBid-real-estate-project-react/static/js/main.bdf3f407.chunk.js.map",
     "runtime-main.js": "/E-propertyBid-real-estate-project-react/static/js/runtime-main.c36b6e8c.js",
     "runtime-main.js.map": "/E-propertyBid-real-estate-project-react/static/js/runtime-main.c36b6e8c.js.map",
-    "static/js/2.c55293ab.chunk.js": "/E-propertyBid-real-estate-project-react/static/js/2.c55293ab.chunk.js",
-    "static/js/2.c55293ab.chunk.js.map": "/E-propertyBid-real-estate-project-react/static/js/2.c55293ab.chunk.js.map",
+    "static/js/2.aece9ba8.chunk.js": "/E-propertyBid-real-estate-project-react/static/js/2.aece9ba8.chunk.js",
+    "static/js/2.aece9ba8.chunk.js.map": "/E-propertyBid-real-estate-project-react/static/js/2.aece9ba8.chunk.js.map",
     "index.html": "/E-propertyBid-real-estate-project-react/index.html",
-    "static/js/2.c55293ab.chunk.js.LICENSE.txt": "/E-propertyBid-real-estate-project-react/static/js/2.c55293ab.chunk.js.LICENSE.txt",
+    "static/js/2.aece9ba8.chunk.js.LICENSE.txt": "/E-propertyBid-real-estate-project-react/static/js/2.aece9ba8.chunk.js.LICENSE.txt",
     "static/media/land.a3427752.png": "/E-propertyBid-real-estate-project-react/static/media/land.a3427752.png",
     "static/media/residential.2efcfa05.png": "/E-propertyBid-real-estate-project-react/static/media/residential.2efcfa05.png",
     "static/media/stairs.2c60f2aa.png": "/E-propertyBid-real-estate-project-react/static/media/stairs.2c60f2aa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c36b6e8c.js",
-    "static/js/2.c55293ab.chunk.js",
-    "static/js/main.21765e6a.chunk.js"
+    "static/js/2.aece9ba8.chunk.js",
+    "static/js/main.bdf3f407.chunk.js"
   ]
 }
